@@ -1,2 +1,2 @@
 # misc-data
-This repository contains ucategorized data that doesn't belong in any project.
+This repository contains uncategorized data that doesn't belong in any project.
